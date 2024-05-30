@@ -34,3 +34,12 @@ The data used for this project is sourced from an Excel file containing the foll
 <li><b>Country:</b> Country where the employee is located</li>
 <li><b>City:</b> City where the employee is located</li>
 <li><b>End Date:</b> Employment end date, if applicable</li>
+
+## Charts and Visuals
+<li><b>Total Enrolled and Present:</b> Card showing Total number of employees and current headcount.</li>
+<li><b>Employee Headcount Volume Trend:</b> Line chart showing hired and attrition counts over the years.</li>
+<li><b>Employee Headcount by Gender:</b> Pie chart showing the gender distribution.</li>
+<li><b>Employee Headcount by Age Group:</b> Bar chart showing the distribution of employees across different age groups.</li>
+<li><b>Employee Headcount by Country:</b> Decomposition tree showing the number of employees per country.</li>
+<li><b>Employee Count by Business:</b> Tree map showing the distribution of employees across business units.</li>
+<li><b>Employee Count by Job Title:</b> Bar chart showing the distribution of employees across different job titles.</li>
