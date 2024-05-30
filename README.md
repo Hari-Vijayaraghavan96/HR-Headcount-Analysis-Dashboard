@@ -43,3 +43,20 @@ The data used for this project is sourced from an Excel file containing the foll
 <li><b>Employee Headcount by Country:</b> Decomposition tree showing the number of employees per country.</li>
 <li><b>Employee Count by Business:</b> Tree map showing the distribution of employees across business units.</li>
 <li><b>Employee Count by Job Title:</b> Bar chart showing the distribution of employees across different job titles.</li>
+
+## Exploratory Data Analysis (EDA)
+<li>What is the overall headcount trend over the years?</li>
+<li>How does headcount distribution vary by department, country, and business unit?</li>
+<li>What is the gender and age distribution of the workforce?</li>
+<li>Which job titles have the highest and lowest headcounts?</li>
+
+## Key Insights
+<li><b>Headcount Trend:</b> Identified the overall trend in hiring and attrition over the years.</li>
+<li><b>Department-wise Distribution:</b> Analyzed the distribution of employees across different departments.</li>
+<li><b>Country-wise Distribution:</b> Evaluated the geographic distribution of the workforce.</li>
+<li><b>Gender and Age Distribution:</b> Compared the gender and age demographics within the organization.</li>
+<li><b>Job Title Distribution:</b> Analyzed the distribution of employees across various job titles.</li>
+
+## Result
+![image](https://github.com/Hari-Vijayaraghavan96/HR-Headcount-Analysis-Dashboard/assets/163993617/7fd55cc4-08dd-46da-a657-a01212254c42)
+
