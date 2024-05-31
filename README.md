@@ -1,7 +1,7 @@
 # HR Headcount Analysis Dashboard
 
 ## Project Overview
-The HR Headcount Analysis Dashboard is an interactive tool designed to provide detailed insights into employee headcount metrics. The dashboard helps HR departments track headcount trends, analyze demographic distributions, and gain insights into the workforce composition by various categories such as department, country, gender, and job title.
+The HR Headcount Analysis Dashboard is an interactive tool designed to provide detailed insights into employee headcount metrics. This dashboard helps HR departments track headcount trends, analyze demographic distributions, and gain insights into the workforce composition by various categories such as department, country, gender, and job title.
 
 ## Problem Statement
 <li>Monitors the total number of employees, including new hires and attrition.</li>
